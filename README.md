@@ -5,8 +5,8 @@
 
  link: https://www.kaggle.com/c/dogs-vs-cats
 
-<<<<<<< Updated upstream
+
 ![](img.PNG)
 =======
 ![](E:\Projects\Image_Detector-Dogs_or_Cats\img.PNG)
->>>>>>> Stashed changes
+
