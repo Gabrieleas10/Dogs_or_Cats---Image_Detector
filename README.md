@@ -5,4 +5,4 @@
 
  link: https://www.kaggle.com/c/dogs-vs-cats
 
-![github-small](E:\Projects\Image_Detector-Dogs_or_Cats\img.PNG)
+![](E:\Projects\Image_Detector-Dogs_or_Cats\img.PNG)
